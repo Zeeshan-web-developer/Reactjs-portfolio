@@ -1,0 +1,18 @@
+.list__container{
+  list-style: none;
+  background-color: #2b3029;
+  height: 100%;
+  width: 100%;
+margin-top: 10px !important;
+   padding: 5px !important;
+   
+}
+.list__container li{
+    border-radius: 40px;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    border-bottom: 2px solid #fff;
+}

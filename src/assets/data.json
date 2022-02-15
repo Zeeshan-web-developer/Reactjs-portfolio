@@ -1,0 +1,20 @@
+[
+  {
+    "projectName": "Dua Andriod App",
+    "projectDesc": "THIS APPLICATION IS ABOUT THIRTY(30) DUA'S RECITED ON EACH DAY OF RAMADHAN.IN THIS APPLICATION A USER CAN EASILY SWIPEIMAGES AND READ DUA",
+    "projectImg": "https://play-lh.googleusercontent.com/Pzflrj8VCEQZ6hc0SiIe7OQ4Xw571EJOKu4H4Pg-V8eEVu65t_gzB9np7gblzS5j2Q=s180-rw",
+    "projectUrl": "https://play.google.com/store/apps/details?id=techy.developerzeeshan.ramzandua"
+  },
+  {
+    "projectName": "Book Store Frontend",
+    "projectDesc": "This is just a book Store website Landing Page created using Plain Javascript,Html and Css.This is a Frontend Project.",
+    "projectImg": "https://zeeshan-web-developer.github.io/sbww/IMAGES/sincerely-media-_-hjiem5TqI-unsplash.jpg",
+    "projectUrl": "https://github.com/Zeeshan-web-developer/sbww"
+  },
+  {
+    "projectName": "Group Chat App",
+    "projectDesc": "This is chat app created using Reactjs and Xmpp,websockets,Stanza.js.",
+    "projectImg": "https://github.com/Zeeshan-web-developer/chit-chat/blob/main/Capture.PNG?raw=true",
+    "projectUrl": "https://github.com/Zeeshan-web-developer/chitChat"
+  }
+]

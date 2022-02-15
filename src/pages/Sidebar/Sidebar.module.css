@@ -1,0 +1,51 @@
+
+/* sidebar positin fixed with 100% width */
+.sidebar__container{
+  height: 100%;
+  background-color: #2b3029;
+ display: flex;
+ flex-direction: column;
+}
+.sidebar__content{
+  background-color: #2b3029;
+    height: 100%;
+    width: 100%;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.sidebar__content img{
+  margin-top: 20px !important;
+}
+.image{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.profile__name{
+  font-size: 1rem !important;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 10px;
+  color: #fff;
+  margin-top: 20px !important;
+}
+.list__wrapper{
+  list-style: none;
+  height: 100%;
+  width: 100%;
+  background-color: #2b3029;
+}
+.list{
+  margin-top: 50px !important;
+  padding: 55px !important;
+}
+.profile{
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center ;
+  justify-content: center;
+}
